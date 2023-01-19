@@ -12,7 +12,7 @@ pandas==0.24
 ### Usage:
 Select your current ingame progress with the 8 available tier buttons. Enter an item in the search bar titled 'Item Name'. Available items depend on the selected tier. Enter the how much of that item you want per minute into 'Target'. All required basic resources are listed under the target. The display in the middle is non-interactable aside from possible scrollbars on the edges. Douplicate items are combined at their earliest occurence to increase readability. Pressing the 'Clear' button clears the current item and its production tree.
 ### Possible new features:
--hover effect with item name for images
+-hover effect with item name for images  
 -resizable production tree widgets  
 -save/load configuration  
 -implementation of alternate recipes
