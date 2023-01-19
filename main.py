@@ -329,7 +329,7 @@ class MainWindow(qtw.QMainWindow):
         super(MainWindow, self).__init__()
         #uic.loadUi("Logistics-Planner.ui", self)
         self.setupUi(self)
-        self.setWindowIcon(QtGui.QIcon(':/Logo.png'))
+        self.setWindowIcon(QtGui.QIcon('Logo.png'))
         self.retranslateUi(self)
 
         # tier button list
@@ -685,5 +685,4 @@ if __name__ == "__main__":
     app = qtw.QApplication(sys.argv)
     ui = MainWindow()
     ui.showMaximized()
-    app.setWindowIcon(QtGui.QIcon('icon.png'))
     sys.exit(app.exec_())
