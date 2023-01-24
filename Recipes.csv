@@ -50,11 +50,11 @@ Mycelia,0,,,,,,,,,,,,
 Nitric_Acid,8,Blender,30,,,Nitrogen_Gas,120,Water,30,Iron_Plate,10,,
 Nitrogen_Gas,0,,,,,,,,,,,,
 Non-fissile_Uranium,8,Blender,50,Water,15,Uranium_Waste,37.5,Silica,25,Nitric_Acid,15,Sulfuric_Acid,15
-Nuclear_Pasta,8,Particle_Accellerator,0.5,Copper_Powder,100,Pressure_Conversion_Cube,0.5,,,,
+Nuclear_Pasta,8,Particle_Accelerator,0.5,Copper_Powder,100,Pressure_Conversion_Cube,0.5,,,,
 Petroleum_Coke,-1,,,,,,,,,,,,
 Plastic,5,Refinery,20,Heavy_Oil_Residue,10,Crude_Oil,30,,,,,,
 Plutonium_Fuel_Rod,8,Manufacturer,0.25,,,Encased_Plutonium_Cell,7.5,Steel_Beam,4.5,Electromagnetic_Control_Rod,6,Heat_Sink,2.5
-Plutonium_Pellet,8,Particle_Accellerator,30,,,Non-fissile_Uranium,100,Uranium_Waste,25,,,,
+Plutonium_Pellet,8,Particle_Accelerator,30,,,Non-fissile_Uranium,100,Uranium_Waste,25,,,,
 Plutonium_Waste,-1,,,,,,,,,,,,
 Polymer_Resin,-1,,,,,,,,,,,,
 Pressure_Conversion_Cube,8,Assembler,1,,,Fused_Modular_Frame,1,Radio_Control_Unit,2,,,,
@@ -79,7 +79,7 @@ Thermal_Propulsion_Rocket,8,Manufacturer,1,,,Modular_Engine,2.5,Turbo_Motor,1,Co
 Turbo_Motor,8,Manufacturer,1.875,,,Cooling_System,7.5,Radio_Control_Unit,3.75,Motor,7.5,Rubber,45
 Turbofuel,5,Refinery,18.75,,,Fuel,22.5,Compacted_Coal,15,,,,
 Uranium_Fuel_Rod,8,Manufacturer,0.4,,,Encased_Uranium_Cell,20,Encased_Industrial_Beam,1.2,Electromagnetic_Control_Rod,2,,
-Uranium_Ore,0,,,,,,,,,,,,
+Uranium,0,,,,,,,,,,,,
 Uranium_Waste,8,Nuclear_Power_Plant,10,,,Uranium_Fuel_Rod,0.2,Water,240,,,,
 Versatile_Framework,3,Assembler,5,,,Modular_Frame,2.5,Steel_Beam,30,,,,
 Water,0,,,,,,,,,,,,
