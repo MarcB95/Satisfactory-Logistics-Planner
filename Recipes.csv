@@ -1,5 +1,5 @@
 name,tier,building,rate,biproduct,bi_rate,resource0,demand0,resource1,demand1,resource2,demand2,resource3,demand3
-Adaptive_Control_Unit,5,Manufacturer,1,,,Automated_Wiring,7.5,Circuit_Board,5,Heavy_Modular_frame,1,Computer,1
+Adaptive_Control_Unit,5,Manufacturer,1,,,Automated_Wiring,7.5,Circuit_Board,5,Heavy_Modular_Frame,1,Computer,1
 AI_Limiter,2,Assembler,5,,,Copper_Sheet,25,Quickwire,100,,,,
 Alclad_Aluminum_Sheet,7,Assembler,30,,,Aluminum_Ingot,30,Copper_Ingot,10,,,,
 Alumina_Solution,7,Refinery,120,Silica,50,Bauxite,120,Water,180,,,,
